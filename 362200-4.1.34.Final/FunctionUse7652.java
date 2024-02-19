@@ -1,0 +1,6 @@
+import io.netty.util.collection.IntCollections.EmptyMap;
+public class FunctionUse7652 {
+public void funcUse() {
+EmptyMap emptymap = new EmptyMap();
+}
+}
